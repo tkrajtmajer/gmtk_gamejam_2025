@@ -63,8 +63,13 @@ public class Rope : MonoBehaviour
 
         if (hit.collider != null) {
             Vector2 hitPoint = hit.point;
+            Vector2 normal = hit.normal;
+
+            float offset = 0.05f;
+            Vector2 offsetHitPoint = hitPoint + normal * offset;
+
             if (Vector2.Distance(hitPoint, lastPoint) > breakpointThresh) {
-                ropePositions.Insert(ropePositions.Count - 1, hitPoint);
+                ropePositions.Insert(ropePositions.Count - 1, offsetHitPoint);
             }
         }
     }
