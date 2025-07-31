@@ -3,7 +3,7 @@ using UnityEngine;
 public abstract class Pullable : MonoBehaviour
 {
     public Gate gate;
-    public Rope rope;
+    [HideInInspector] public Rope rope;
 
     void Awake()
     {
