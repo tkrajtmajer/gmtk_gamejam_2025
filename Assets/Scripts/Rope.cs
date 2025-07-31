@@ -8,8 +8,6 @@ public class Rope : MonoBehaviour
     public Transform hook;
     public LayerMask obstacles;
 
-    public Transform pillar;
-
     public float maxLength = 100f;
     public TMP_Text text;
 
@@ -31,13 +29,6 @@ public class Rope : MonoBehaviour
         UpdateRopePositions();
         CheckWrapping();
         UnwrapIfPossible();
-
-        if (IsFullyWrappedAround(pillar)) {
-            Debug.Log("wrapped around pillar");
-        }
-        else {
-            Debug.Log("not wrapped");
-        }
     }
 
     void UpdateRopePositions() {
