@@ -8,6 +8,8 @@ public class Rope : MonoBehaviour
     public Transform hook;
     public LayerMask obstacles;
 
+    public Transform pillar;
+
     public float maxLength = 100f;
     public TMP_Text text;
 
@@ -29,6 +31,13 @@ public class Rope : MonoBehaviour
         UpdateRopePositions();
         CheckWrapping();
         UnwrapIfPossible();
+
+        if (IsFullyWrappedAround(pillar)) {
+            Debug.Log("wrapped around pillar");
+        }
+        else {
+            Debug.Log("not wrapped");
+        }
     }
 
     void UpdateRopePositions() {
@@ -89,5 +98,20 @@ public class Rope : MonoBehaviour
 
     public Vector2 GetLastPoint() {
         return ropePositions[ropePositions.Count - 2];
+    }
+
+
+    public bool IsFullyWrappedAround(Transform target) {
+        float angleSum = 0f;
+        Vector2 center = target.position;
+
+        for (int i = 0; i < ropePositions.Count - 1; i++) {
+            Vector2 a = ropePositions[i] - center;
+            Vector2 b = ropePositions[i + 1] - center;
+            float angle = Vector2.SignedAngle(a, b);
+            angleSum += angle;
+        }
+
+        return Mathf.Abs(angleSum) > 355f; 
     }
 }
