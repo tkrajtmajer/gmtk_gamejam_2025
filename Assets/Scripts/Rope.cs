@@ -7,6 +7,7 @@ public class Rope : MonoBehaviour
     public Transform player;
     public Transform hook;
     public LayerMask obstacles;
+    public LayerMask gatelayer;
 
     public float maxLength = 100f;
     public TMP_Text text;
@@ -110,4 +111,19 @@ public class Rope : MonoBehaviour
 
         return Mathf.Abs(angleSum) > 355f; 
     }
+
+    public bool IsRopeIntersecting(Collider2D gateCollider)
+    {
+        for (int i = 0; i < ropePositions.Count - 1; i++)
+        {
+            Vector2 start = ropePositions[i];
+            Vector2 end = ropePositions[i + 1];
+
+            RaycastHit2D hit = Physics2D.Linecast(start, end, gatelayer);
+            if (hit.collider != null && hit.collider == gateCollider) return true;
+        }
+
+        return false;
+    }
+
 }

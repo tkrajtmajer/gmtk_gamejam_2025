@@ -3,8 +3,8 @@ using UnityEngine;
 public class Lever : Pullable
 {
     bool pulled = false;
-    bool hasBeenPulled = false;
     bool wasWrapped = false;
+    bool gateIsOpen = false;
 
     void Update()
     {
@@ -17,18 +17,15 @@ public class Lever : Pullable
 
         wasWrapped = isWrapped;
 
-        if (pulled)
+        if (pulled && !gateIsOpen)
         {
-            if (!hasBeenPulled)
-            {
-                gate.Open();
-                hasBeenPulled = true;
-            }
+            gate.Open();
+            gateIsOpen = true;
         }
-        else
+        else if (!pulled && gateIsOpen)
         {
             gate.Close();
-            hasBeenPulled = false;
+            gateIsOpen = false;
         }
     }
 }
