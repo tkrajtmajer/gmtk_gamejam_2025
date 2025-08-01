@@ -13,6 +13,7 @@ public class Rope : MonoBehaviour
     public TMP_Text text;
 
     public float breakpointThresh = 0.001f;
+    public float offset = 0.05f;
 
     private LineRenderer lineRenderer;
     private List<Vector2> ropePositions = new List<Vector2>();
@@ -57,7 +58,6 @@ public class Rope : MonoBehaviour
             Vector2 hitPoint = hit.point;
             Vector2 normal = hit.normal;
 
-            float offset = 0.05f;
             Vector2 offsetHitPoint = hitPoint + normal * offset;
 
             if (Vector2.Distance(hitPoint, lastPoint) > breakpointThresh) {
