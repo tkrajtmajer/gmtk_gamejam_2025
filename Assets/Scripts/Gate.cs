@@ -7,28 +7,66 @@ public class Gate : MonoBehaviour
     // SpriteRenderer spriteRenderer;
     [HideInInspector] public Rope rope;
 
+    public bool startOpen = false;
+    public bool isOpen  = false;
+
+    public GameObject wall;
+
+    public SpriteRenderer gateSpriteRenderer;
+    public Sprite gateOpenSprite;
+    public Sprite gateClosedSprite;
+
     void Start() {
         this.boxCollider = GetComponent<BoxCollider2D>();
         // this.spriteRenderer = GetComponent<SpriteRenderer>();
 
         rope = FindFirstObjectByType<Rope>();
+
+        if (startOpen)
+            Open();
+        else
+            Close();
     }
 
     public void Open() {
+        if (isOpen) return;
+
         boxCollider.enabled = false;
-        // Color clr = spriteRenderer.color;
-        // spriteRenderer.color = new Color(clr.r, clr.g, clr.b, 0.5f);
+        isOpen = true;
+
+        if(wall != null) {
+            wall.SetActive(false);
+        }
+        if(gateSpriteRenderer != null) {
+            gateSpriteRenderer.sprite = gateOpenSprite;
+        }
     }
 
     public void Close() {
+        if (!isOpen) return;
+
         boxCollider.enabled = true;
-        // Color clr = spriteRenderer.color;
-        // spriteRenderer.color = new Color(clr.r, clr.g, clr.b, 1.0f);
+        isOpen = false;
 
         if (rope.IsRopeIntersecting(boxCollider))
         {
             Debug.Log("Gate cut off the rope, the player dies");
         }
+
+        if(wall != null) {
+            wall.SetActive(true);
+        }
+        if(gateSpriteRenderer != null) {
+            gateSpriteRenderer.sprite = gateClosedSprite;
+        }
+    }
+
+    public void Toggle()
+    {
+        if (isOpen)
+            Close();
+        else
+            Open();
     }
 
 }

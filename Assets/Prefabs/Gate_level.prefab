@@ -75,7 +75,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 5
   m_Sprite: {fileID: -831697920, guid: 497fc6656c5e7a216b00b016b608f180, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -162,7 +162,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 5
   m_Sprite: {fileID: 121457538, guid: 497fc6656c5e7a216b00b016b608f180, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -280,6 +280,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rope: {fileID: 0}
+  startOpen: 0
+  isOpen: 0
+  wall: {fileID: 0}
+  gateMinimap: {fileID: 0}
+  gateOpenSprite: {fileID: 21300000, guid: 8d0e82602452855e789ca9897698aeae, type: 3}
+  gateClosedSprite: {fileID: 21300000, guid: d2cc8bc17407e5f9bb4df85dbfec17f1, type: 3}
 --- !u!61 &4784803912543033270
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -401,7 +407,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 5
   m_Sprite: {fileID: -1490269659, guid: 497fc6656c5e7a216b00b016b608f180, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -488,7 +494,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 5
   m_Sprite: {fileID: -1599510052, guid: 497fc6656c5e7a216b00b016b608f180, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
