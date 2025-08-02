@@ -1,0 +1,3419 @@
+fileFormatVersion: 2
+guid: 930f776aae224a0178d49a4b1c40e12b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4784419489435488928
+    second: Royal Knight Platformer-sheet_0
+  - first:
+      213: 6628617606647768959
+    second: Royal Knight Platformer-sheet_1
+  - first:
+      213: 7195741372118807485
+    second: Royal Knight Platformer-sheet_2
+  - first:
+      213: -4872769116954818197
+    second: Royal Knight Platformer-sheet_3
+  - first:
+      213: 8658615115853266426
+    second: Royal Knight Platformer-sheet_4
+  - first:
+      213: -1223060720125175532
+    second: Royal Knight Platformer-sheet_5
+  - first:
+      213: 4691569808407680189
+    second: Royal Knight Platformer-sheet_6
+  - first:
+      213: 3889812062130839519
+    second: Royal Knight Platformer-sheet_7
+  - first:
+      213: -8643116230909996044
+    second: Royal Knight Platformer-sheet_8
+  - first:
+      213: 7567348967765029870
+    second: Royal Knight Platformer-sheet_9
+  - first:
+      213: -5688169165684209241
+    second: Royal Knight Platformer-sheet_10
+  - first:
+      213: 4709252100204596898
+    second: Royal Knight Platformer-sheet_11
+  - first:
+      213: 7645848007407751394
+    second: Royal Knight Platformer-sheet_12
+  - first:
+      213: 6594642205942293205
+    second: Royal Knight Platformer-sheet_13
+  - first:
+      213: 9102982152312539007
+    second: Royal Knight Platformer-sheet_14
+  - first:
+      213: -4877655342011163737
+    second: Royal Knight Platformer-sheet_15
+  - first:
+      213: -5250557078535265263
+    second: Royal Knight Platformer-sheet_16
+  - first:
+      213: 4624235898019114793
+    second: Royal Knight Platformer-sheet_17
+  - first:
+      213: 6409815500412749340
+    second: Royal Knight Platformer-sheet_18
+  - first:
+      213: -2336474624941202133
+    second: Royal Knight Platformer-sheet_19
+  - first:
+      213: 2536255629044009734
+    second: Royal Knight Platformer-sheet_20
+  - first:
+      213: 4731518275237722109
+    second: Royal Knight Platformer-sheet_21
+  - first:
+      213: -1231075092160194422
+    second: Royal Knight Platformer-sheet_22
+  - first:
+      213: -3812758443228218339
+    second: Royal Knight Platformer-sheet_23
+  - first:
+      213: 1185204247054853889
+    second: Royal Knight Platformer-sheet_24
+  - first:
+      213: -8035946772534285852
+    second: Royal Knight Platformer-sheet_25
+  - first:
+      213: -8819429098105111743
+    second: Royal Knight Platformer-sheet_26
+  - first:
+      213: -7578800586559543564
+    second: Royal Knight Platformer-sheet_27
+  - first:
+      213: 4401889613917407705
+    second: Royal Knight Platformer-sheet_28
+  - first:
+      213: -7286701003162582826
+    second: Royal Knight Platformer-sheet_29
+  - first:
+      213: -2943638728448487443
+    second: Royal Knight Platformer-sheet_30
+  - first:
+      213: 1216842832791810419
+    second: Royal Knight Platformer-sheet_31
+  - first:
+      213: 1871319724678403171
+    second: Royal Knight Platformer-sheet_32
+  - first:
+      213: 637610737459254708
+    second: Royal Knight Platformer-sheet_33
+  - first:
+      213: -4933559483187514100
+    second: Royal Knight Platformer-sheet_34
+  - first:
+      213: -201313402034241065
+    second: Royal Knight Platformer-sheet_35
+  - first:
+      213: -3104729574830571693
+    second: Royal Knight Platformer-sheet_36
+  - first:
+      213: -7658929119076429608
+    second: Royal Knight Platformer-sheet_37
+  - first:
+      213: -8088991430520899442
+    second: Royal Knight Platformer-sheet_38
+  - first:
+      213: 6448897680514397501
+    second: Royal Knight Platformer-sheet_39
+  - first:
+      213: 3273540100754667296
+    second: Royal Knight Platformer-sheet_40
+  - first:
+      213: 6022223265845712024
+    second: Royal Knight Platformer-sheet_41
+  - first:
+      213: -930679780107455769
+    second: Royal Knight Platformer-sheet_42
+  - first:
+      213: 8200530245135479611
+    second: Royal Knight Platformer-sheet_43
+  - first:
+      213: 2932757930751721987
+    second: Royal Knight Platformer-sheet_44
+  - first:
+      213: -8045195155204976099
+    second: Royal Knight Platformer-sheet_45
+  - first:
+      213: 8763487116678902704
+    second: Royal Knight Platformer-sheet_46
+  - first:
+      213: -414407116235973468
+    second: Royal Knight Platformer-sheet_47
+  - first:
+      213: -157881952242013300
+    second: Royal Knight Platformer-sheet_48
+  - first:
+      213: -4644498795215870524
+    second: Royal Knight Platformer-sheet_49
+  - first:
+      213: -1440882229792467975
+    second: Royal Knight Platformer-sheet_50
+  - first:
+      213: 2300571531938944384
+    second: Royal Knight Platformer-sheet_51
+  - first:
+      213: 6488406572085200782
+    second: Royal Knight Platformer-sheet_52
+  - first:
+      213: -1972159568404167936
+    second: Royal Knight Platformer-sheet_53
+  - first:
+      213: -7845042811565741001
+    second: Royal Knight Platformer-sheet_54
+  - first:
+      213: 4786300708165555304
+    second: Royal Knight Platformer-sheet_55
+  - first:
+      213: 7116572006604171616
+    second: Royal Knight Platformer-sheet_56
+  - first:
+      213: -6173296889145395969
+    second: Royal Knight Platformer-sheet_57
+  - first:
+      213: 8831562293319144336
+    second: Royal Knight Platformer-sheet_58
+  - first:
+      213: -8254549658830403335
+    second: Royal Knight Platformer-sheet_59
+  - first:
+      213: 7150615572744674441
+    second: Royal Knight Platformer-sheet_60
+  - first:
+      213: 5855540777494115584
+    second: Royal Knight Platformer-sheet_61
+  - first:
+      213: 5708234841021954585
+    second: Royal Knight Platformer-sheet_62
+  - first:
+      213: 3765013045390022216
+    second: Royal Knight Platformer-sheet_63
+  - first:
+      213: -727344565912130385
+    second: Royal Knight Platformer-sheet_64
+  - first:
+      213: 727733783996530071
+    second: Royal Knight Platformer-sheet_65
+  - first:
+      213: -6538062635784671884
+    second: Royal Knight Platformer-sheet_66
+  - first:
+      213: -3384054400295066709
+    second: Royal Knight Platformer-sheet_67
+  - first:
+      213: 5425744360465739142
+    second: Royal Knight Platformer-sheet_68
+  - first:
+      213: 5517455223066152788
+    second: Royal Knight Platformer-sheet_69
+  - first:
+      213: 8763316950067448279
+    second: Royal Knight Platformer-sheet_70
+  - first:
+      213: -2470330600336033875
+    second: Royal Knight Platformer-sheet_71
+  - first:
+      213: 3759477835006573204
+    second: Royal Knight Platformer-sheet_72
+  - first:
+      213: -4189769294171222514
+    second: Royal Knight Platformer-sheet_73
+  - first:
+      213: 2586161016778222290
+    second: Royal Knight Platformer-sheet_74
+  - first:
+      213: 8606129419188295464
+    second: Royal Knight Platformer-sheet_75
+  - first:
+      213: -7223209892428036917
+    second: Royal Knight Platformer-sheet_76
+  - first:
+      213: 317609666029204788
+    second: Royal Knight Platformer-sheet_77
+  - first:
+      213: 4172113289602809525
+    second: Royal Knight Platformer-sheet_78
+  - first:
+      213: 1634477183771312036
+    second: Royal Knight Platformer-sheet_79
+  - first:
+      213: -2045695207787920105
+    second: Royal Knight Platformer-sheet_80
+  - first:
+      213: -903856440586625250
+    second: Royal Knight Platformer-sheet_81
+  - first:
+      213: -950753414900804611
+    second: Royal Knight Platformer-sheet_82
+  - first:
+      213: -4638694928136549976
+    second: Royal Knight Platformer-sheet_83
+  - first:
+      213: -5069089460191828562
+    second: Royal Knight Platformer-sheet_84
+  - first:
+      213: -3808014462091583815
+    second: Royal Knight Platformer-sheet_85
+  - first:
+      213: 785164511373065831
+    second: Royal Knight Platformer-sheet_86
+  - first:
+      213: -5095847933400109652
+    second: Royal Knight Platformer-sheet_87
+  - first:
+      213: 7957117819587670147
+    second: Royal Knight Platformer-sheet_88
+  - first:
+      213: -2845754182960995119
+    second: Royal Knight Platformer-sheet_89
+  - first:
+      213: -630392136946084562
+    second: Royal Knight Platformer-sheet_90
+  - first:
+      213: 8727380628271158580
+    second: Royal Knight Platformer-sheet_91
+  - first:
+      213: 3039704652753692316
+    second: Royal Knight Platformer-sheet_92
+  - first:
+      213: 1521441254814732425
+    second: Royal Knight Platformer-sheet_93
+  - first:
+      213: -9026625518370849088
+    second: Royal Knight Platformer-sheet_94
+  - first:
+      213: 6667942728322005663
+    second: Royal Knight Platformer-sheet_95
+  - first:
+      213: 7774972511992333814
+    second: Royal Knight Platformer-sheet_96
+  - first:
+      213: 2191176380973362405
+    second: Royal Knight Platformer-sheet_97
+  - first:
+      213: -2263996811447965496
+    second: Royal Knight Platformer-sheet_98
+  - first:
+      213: -7826190770704804514
+    second: Royal Knight Platformer-sheet_99
+  - first:
+      213: -2029981254826472462
+    second: Royal Knight Platformer-sheet_100
+  - first:
+      213: -1979795829796144900
+    second: Royal Knight Platformer-sheet_101
+  - first:
+      213: -7052968529925723026
+    second: Royal Knight Platformer-sheet_102
+  - first:
+      213: -1584855736272965268
+    second: Royal Knight Platformer-sheet_103
+  - first:
+      213: -8969781647448099078
+    second: Royal Knight Platformer-sheet_104
+  - first:
+      213: 7347847257350566164
+    second: Royal Knight Platformer-sheet_105
+  - first:
+      213: -1108992239347781641
+    second: Royal Knight Platformer-sheet_106
+  - first:
+      213: -1775990109428399788
+    second: Royal Knight Platformer-sheet_107
+  - first:
+      213: -2120663962715027660
+    second: Royal Knight Platformer-sheet_108
+  - first:
+      213: -5114914472516617681
+    second: Royal Knight Platformer-sheet_109
+  - first:
+      213: -1326188530073556978
+    second: Royal Knight Platformer-sheet_110
+  - first:
+      213: -2729127880505375587
+    second: Royal Knight Platformer-sheet_111
+  - first:
+      213: 9218567525876533922
+    second: Royal Knight Platformer-sheet_112
+  - first:
+      213: -488963896103585204
+    second: Royal Knight Platformer-sheet_113
+  - first:
+      213: 679337687892855537
+    second: Royal Knight Platformer-sheet_114
+  - first:
+      213: 916509326669196633
+    second: Royal Knight Platformer-sheet_115
+  - first:
+      213: 5116824717905451894
+    second: Royal Knight Platformer-sheet_116
+  - first:
+      213: -8474350718691385456
+    second: Royal Knight Platformer-sheet_117
+  - first:
+      213: -4176047232467417797
+    second: Royal Knight Platformer-sheet_118
+  - first:
+      213: -3344947111253508108
+    second: Royal Knight Platformer-sheet_119
+  - first:
+      213: -3650396674030458699
+    second: Royal Knight Platformer-sheet_120
+  - first:
+      213: -4718290359227034217
+    second: Royal Knight Platformer-sheet_121
+  - first:
+      213: -153104720192454443
+    second: Royal Knight Platformer-sheet_122
+  - first:
+      213: 6622948518897266850
+    second: Royal Knight Platformer-sheet_123
+  - first:
+      213: 904720288531231080
+    second: Royal Knight Platformer-sheet_124
+  - first:
+      213: 8580439724020918257
+    second: Royal Knight Platformer-sheet_125
+  - first:
+      213: 1663089407177449410
+    second: Royal Knight Platformer-sheet_126
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 495
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06dedb3c2d35a9db0800000000000000
+      internalID: -4784419489435488928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 495
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77e324e7949dfb50800000000000000
+      internalID: 6628617606647768959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 495
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db339bc37a86cd360800000000000000
+      internalID: 7195741372118807485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 495
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b690a6f1e42706cb0800000000000000
+      internalID: -4872769116954818197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 495
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afdf2439294992870800000000000000
+      internalID: 8658615115853266426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 495
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419943e41c0d60fe0800000000000000
+      internalID: -1223060720125175532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 464
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4561d32edcb1140800000000000000
+      internalID: 4691569808407680189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 464
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf965e16736bf530800000000000000
+      internalID: 3889812062130839519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 464
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f35238c49b7d0880800000000000000
+      internalID: -8643116230909996044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 464
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3bd0beacf940960800000000000000
+      internalID: 7567348967765029870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 464
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a90011f7409f01b0800000000000000
+      internalID: -5688169165684209241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 464
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae057e95df9a5140800000000000000
+      internalID: 4709252100204596898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 433
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0da28d0428b1a60800000000000000
+      internalID: 7645848007407751394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 435
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d22df97520e48b50800000000000000
+      internalID: 6594642205942293205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_14
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 434
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f774f41b90a445e70800000000000000
+      internalID: 9102982152312539007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_15
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 433
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab53a23f461f4cb0800000000000000
+      internalID: -4877655342011163737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_16
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 433
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1142efcd7264227b0800000000000000
+      internalID: -5250557078535265263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_17
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 433
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92fe90b8c069c2040800000000000000
+      internalID: 4624235898019114793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_18
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 402
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1605e9ac3d34f850800000000000000
+      internalID: 6409815500412749340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_19
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 402
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b256aa135bc239fd0800000000000000
+      internalID: -2336474624941202133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_20
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 402
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60bc0c49e07923320800000000000000
+      internalID: 2536255629044009734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_21
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 402
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df730db7dcab9a140800000000000000
+      internalID: 4731518275237722109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_22
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 402
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88d5f7e9b75aeee0800000000000000
+      internalID: -1231075092160194422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_23
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 402
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1cb201956c561bc0800000000000000
+      internalID: -3812758443228218339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 402
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1072df3bbf0b27010800000000000000
+      internalID: 1185204247054853889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_25
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 402
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9a5259cf49a7090800000000000000
+      internalID: -8035946772534285852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_26
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 402
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b73bd66f71b9580800000000000000
+      internalID: -8819429098105111743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_27
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 402
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6a89e4501b2d690800000000000000
+      internalID: -7578800586559543564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_28
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 371
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d9470a1847a61d30800000000000000
+      internalID: 4401889613917407705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_29
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 371
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d003025b0070ea90800000000000000
+      internalID: -7286701003162582826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_30
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 371
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: defcebb2c281627d0800000000000000
+      internalID: -2943638728448487443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_31
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 384
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371390cfb1813e010800000000000000
+      internalID: 1216842832791810419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_32
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 371
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36453aaff5348f910800000000000000
+      internalID: 1871319724678403171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_33
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 371
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5db37669f39d800800000000000000
+      internalID: 637610737459254708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_34
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 371
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0539560ac9788bb0800000000000000
+      internalID: -4933559483187514100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_35
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 371
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d14937078ac43df0800000000000000
+      internalID: -201313402034241065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_36
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 371
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ff298b6e8c9e4d0800000000000000
+      internalID: -3104729574830571693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_37
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 371
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d0dd818b8406b590800000000000000
+      internalID: -7658929119076429608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_38
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 371
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e887f98b6212ebf80800000000000000
+      internalID: -8088991430520899442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_39
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 371
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35b6efc5461f7950800000000000000
+      internalID: 6448897680514397501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_40
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 371
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0277a7fa063fd6d20800000000000000
+      internalID: 3273540100754667296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_41
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 340
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89493d6372c339350800000000000000
+      internalID: 6022223265845712024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_42
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 340
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e27e03cbaf8513f0800000000000000
+      internalID: -930679780107455769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_43
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 340
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33b5274fc22ec170800000000000000
+      internalID: 8200530245135479611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_44
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 340
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3028aa2bccf33b820800000000000000
+      internalID: 2932757930751721987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_45
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 340
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d125051b1a9b95090800000000000000
+      internalID: -8045195155204976099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_46
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 309
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b3bb570a192e9970800000000000000
+      internalID: 8763487116678902704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_47
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 309
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac5c546ceabf3af0800000000000000
+      internalID: -414407116235973468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_48
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 309
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b6b2073371fcdf0800000000000000
+      internalID: -157881952242013300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_49
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 309
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5ad6f04fc6b8fb0800000000000000
+      internalID: -4644498795215870524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_50
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 309
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f31c020f35f00ce0800000000000000
+      internalID: -1440882229792467975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_51
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 309
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 085d89d8e954def10800000000000000
+      internalID: 2300571531938944384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_52
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 309
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87c27776637b0a50800000000000000
+      internalID: 6488406572085200782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_53
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 309
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003c1ec425b71a4e0800000000000000
+      internalID: -1972159568404167936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_54
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 278
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c64e0b02fc02390800000000000000
+      internalID: -7845042811565741001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_55
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 278
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864986a922b5c6240800000000000000
+      internalID: 4786300708165555304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_56
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 278
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0696128e88423c260800000000000000
+      internalID: 7116572006604171616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_57
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 278
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4f675df2b045aa0800000000000000
+      internalID: -6173296889145395969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_58
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 278
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09395093d13009a70800000000000000
+      internalID: 8831562293319144336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_59
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 247
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8879cd1d2f17d80800000000000000
+      internalID: -8254549658830403335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_60
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 247
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c92d25af61c3360800000000000000
+      internalID: 7150615572744674441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_61
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 247
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005f95a205f034150800000000000000
+      internalID: 5855540777494115584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_62
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 247
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a3f992859b73f40800000000000000
+      internalID: 5708234841021954585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_63
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 247
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8461f29ba63004430800000000000000
+      internalID: 3765013045390022216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_64
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 247
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac2f7f88f3f7e5f0800000000000000
+      internalID: -727344565912130385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_65
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 216
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79df926550e691a00800000000000000
+      internalID: 727733783996530071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_66
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 216
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47decc24ca22445a0800000000000000
+      internalID: -6538062635784671884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_67
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 216
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba3a0d1d37c6901d0800000000000000
+      internalID: -3384054400295066709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_68
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 216
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68da3afbfbd1c4b40800000000000000
+      internalID: 5425744360465739142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_69
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 216
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f4bfaea40f19c40800000000000000
+      internalID: 5517455223066152788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_70
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 216
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d90ee6065e8d9970800000000000000
+      internalID: 8763316950067448279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_71
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 216
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da77139486f97bdd0800000000000000
+      internalID: -2470330600336033875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_72
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 216
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a75802c295c2430800000000000000
+      internalID: 3759477835006573204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_73
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 216
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ec51a7603fad5c0800000000000000
+      internalID: -4189769294171222514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_74
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 216
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da67012eb3e3e320800000000000000
+      internalID: 2586161016778222290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_75
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 185
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827d1c90c1d1f6770800000000000000
+      internalID: 8606129419188295464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_76
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 185
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc44dbf7fd002cb90800000000000000
+      internalID: -7223209892428036917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_77
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 185
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435b6e8fe40686400800000000000000
+      internalID: 317609666029204788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_78
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 185
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be367d9ee256e930800000000000000
+      internalID: 4172113289602809525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_79
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 185
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af7b2cb654dea610800000000000000
+      internalID: 1634477183771312036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_80
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 154
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715051d0c0b3c93e0800000000000000
+      internalID: -2045695207787920105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_81
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 154
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f92ea2b5bd473f0800000000000000
+      internalID: -903856440586625250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_82
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 154
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df319d37ece3ec2f0800000000000000
+      internalID: -950753414900804611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_83
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 154
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9c30b2a8b00afb0800000000000000
+      internalID: -4638694928136549976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_84
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 154
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5e69e3ef9f6a9b0800000000000000
+      internalID: -5069089460191828562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_85
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 154
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be1b7fb507372bc0800000000000000
+      internalID: -3808014462091583815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_86
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 123
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e72ae86f675ea00800000000000000
+      internalID: 785164511373065831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_87
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 123
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad2744bd49e749b0800000000000000
+      internalID: -5095847933400109652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_88
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 123
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38034709f7c5d6e60800000000000000
+      internalID: 7957117819587670147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_89
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 123
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d42786e5a9d188d0800000000000000
+      internalID: -2845754182960995119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_90
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 123
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25112001b56047f0800000000000000
+      internalID: -630392136946084562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_91
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 123
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4355ab71172ed1970800000000000000
+      internalID: 8727380628271158580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_92
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 92
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c966c71d6433f2a20800000000000000
+      internalID: 3039704652753692316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_93
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 92
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9805bd3a2ce3d1510800000000000000
+      internalID: 1521441254814732425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_94
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 95
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce77098aebfab280800000000000000
+      internalID: -9026625518370849088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_95
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 93
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a3848459a498c50800000000000000
+      internalID: 6667942728322005663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_96
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 92
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5cabb5e4046eb60800000000000000
+      internalID: 7774972511992333814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_97
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 92
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eca4242f4f986e10800000000000000
+      internalID: 2191176380973362405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_98
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 92
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c8e60925eaa490e0800000000000000
+      internalID: -2263996811447965496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_99
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 92
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5513bf75f8c36390800000000000000
+      internalID: -7826190770704804514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_100
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 92
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fbcd55ddce04d3e0800000000000000
+      internalID: -2029981254826472462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_101
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 92
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf87335ae2a5684e0800000000000000
+      internalID: -1979795829796144900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_102
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 92
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ca4c18d72de1e90800000000000000
+      internalID: -7052968529925723026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_103
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 67
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61b533da16710ae0800000000000000
+      internalID: -1584855736272965268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_104
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 67
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6b9079d1fe48380800000000000000
+      internalID: -8969781647448099078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_105
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 67
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4117536662cc8f560800000000000000
+      internalID: 7347847257350566164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_106
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 67
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ffa20b1f611c90f0800000000000000
+      internalID: -1108992239347781641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_107
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 36
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 451c9e2b76a6a57e0800000000000000
+      internalID: -1775990109428399788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_108
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 36
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43706669c53e192e0800000000000000
+      internalID: -2120663962715027660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_109
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 36
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a7421236c2409b0800000000000000
+      internalID: -5114914472516617681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_110
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 36
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e08a4cfee8e689de0800000000000000
+      internalID: -1326188530073556978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_111
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94ccd7f6a0302ad0800000000000000
+      internalID: -2729127880505375587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_112
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa82dd925eeeef70800000000000000
+      internalID: 9218567525876533922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_113
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 0
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a31c85de9d639f0800000000000000
+      internalID: -488963896103585204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_114
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa8361270e7d6900800000000000000
+      internalID: 679337687892855537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_115
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 0
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d2371706818bc00800000000000000
+      internalID: 916509326669196633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_116
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 0
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b51b888fc920740800000000000000
+      internalID: 5116824717905451894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_117
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 0
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09fd25e9bee056a80800000000000000
+      internalID: -8474350718691385456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_118
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 0
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35c68fea23bb06c0800000000000000
+      internalID: -4176047232467417797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_119
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 0
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fff349135c5491d0800000000000000
+      internalID: -3344947111253508108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_120
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 0
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8a52bc09f275dc0800000000000000
+      internalID: -3650396674030458699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_121
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 0
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7955f17bae3458eb0800000000000000
+      internalID: -4718290359227034217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_122
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 0
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d04e73711010edf0800000000000000
+      internalID: -153104720192454443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_123
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 0
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0329a869079eb50800000000000000
+      internalID: 6622948518897266850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_124
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 0
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8613efa1f463e8c00800000000000000
+      internalID: 904720288531231080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_125
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 0
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7eae6c778d31770800000000000000
+      internalID: 8580439724020918257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Knight Platformer-sheet_126
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 0
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cfd680210b741710800000000000000
+      internalID: 1663089407177449410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Royal Knight Platformer-sheet_0: -4784419489435488928
+      Royal Knight Platformer-sheet_1: 6628617606647768959
+      Royal Knight Platformer-sheet_10: -5688169165684209241
+      Royal Knight Platformer-sheet_100: -2029981254826472462
+      Royal Knight Platformer-sheet_101: -1979795829796144900
+      Royal Knight Platformer-sheet_102: -7052968529925723026
+      Royal Knight Platformer-sheet_103: -1584855736272965268
+      Royal Knight Platformer-sheet_104: -8969781647448099078
+      Royal Knight Platformer-sheet_105: 7347847257350566164
+      Royal Knight Platformer-sheet_106: -1108992239347781641
+      Royal Knight Platformer-sheet_107: -1775990109428399788
+      Royal Knight Platformer-sheet_108: -2120663962715027660
+      Royal Knight Platformer-sheet_109: -5114914472516617681
+      Royal Knight Platformer-sheet_11: 4709252100204596898
+      Royal Knight Platformer-sheet_110: -1326188530073556978
+      Royal Knight Platformer-sheet_111: -2729127880505375587
+      Royal Knight Platformer-sheet_112: 9218567525876533922
+      Royal Knight Platformer-sheet_113: -488963896103585204
+      Royal Knight Platformer-sheet_114: 679337687892855537
+      Royal Knight Platformer-sheet_115: 916509326669196633
+      Royal Knight Platformer-sheet_116: 5116824717905451894
+      Royal Knight Platformer-sheet_117: -8474350718691385456
+      Royal Knight Platformer-sheet_118: -4176047232467417797
+      Royal Knight Platformer-sheet_119: -3344947111253508108
+      Royal Knight Platformer-sheet_12: 7645848007407751394
+      Royal Knight Platformer-sheet_120: -3650396674030458699
+      Royal Knight Platformer-sheet_121: -4718290359227034217
+      Royal Knight Platformer-sheet_122: -153104720192454443
+      Royal Knight Platformer-sheet_123: 6622948518897266850
+      Royal Knight Platformer-sheet_124: 904720288531231080
+      Royal Knight Platformer-sheet_125: 8580439724020918257
+      Royal Knight Platformer-sheet_126: 1663089407177449410
+      Royal Knight Platformer-sheet_13: 6594642205942293205
+      Royal Knight Platformer-sheet_14: 9102982152312539007
+      Royal Knight Platformer-sheet_15: -4877655342011163737
+      Royal Knight Platformer-sheet_16: -5250557078535265263
+      Royal Knight Platformer-sheet_17: 4624235898019114793
+      Royal Knight Platformer-sheet_18: 6409815500412749340
+      Royal Knight Platformer-sheet_19: -2336474624941202133
+      Royal Knight Platformer-sheet_2: 7195741372118807485
+      Royal Knight Platformer-sheet_20: 2536255629044009734
+      Royal Knight Platformer-sheet_21: 4731518275237722109
+      Royal Knight Platformer-sheet_22: -1231075092160194422
+      Royal Knight Platformer-sheet_23: -3812758443228218339
+      Royal Knight Platformer-sheet_24: 1185204247054853889
+      Royal Knight Platformer-sheet_25: -8035946772534285852
+      Royal Knight Platformer-sheet_26: -8819429098105111743
+      Royal Knight Platformer-sheet_27: -7578800586559543564
+      Royal Knight Platformer-sheet_28: 4401889613917407705
+      Royal Knight Platformer-sheet_29: -7286701003162582826
+      Royal Knight Platformer-sheet_3: -4872769116954818197
+      Royal Knight Platformer-sheet_30: -2943638728448487443
+      Royal Knight Platformer-sheet_31: 1216842832791810419
+      Royal Knight Platformer-sheet_32: 1871319724678403171
+      Royal Knight Platformer-sheet_33: 637610737459254708
+      Royal Knight Platformer-sheet_34: -4933559483187514100
+      Royal Knight Platformer-sheet_35: -201313402034241065
+      Royal Knight Platformer-sheet_36: -3104729574830571693
+      Royal Knight Platformer-sheet_37: -7658929119076429608
+      Royal Knight Platformer-sheet_38: -8088991430520899442
+      Royal Knight Platformer-sheet_39: 6448897680514397501
+      Royal Knight Platformer-sheet_4: 8658615115853266426
+      Royal Knight Platformer-sheet_40: 3273540100754667296
+      Royal Knight Platformer-sheet_41: 6022223265845712024
+      Royal Knight Platformer-sheet_42: -930679780107455769
+      Royal Knight Platformer-sheet_43: 8200530245135479611
+      Royal Knight Platformer-sheet_44: 2932757930751721987
+      Royal Knight Platformer-sheet_45: -8045195155204976099
+      Royal Knight Platformer-sheet_46: 8763487116678902704
+      Royal Knight Platformer-sheet_47: -414407116235973468
+      Royal Knight Platformer-sheet_48: -157881952242013300
+      Royal Knight Platformer-sheet_49: -4644498795215870524
+      Royal Knight Platformer-sheet_5: -1223060720125175532
+      Royal Knight Platformer-sheet_50: -1440882229792467975
+      Royal Knight Platformer-sheet_51: 2300571531938944384
+      Royal Knight Platformer-sheet_52: 6488406572085200782
+      Royal Knight Platformer-sheet_53: -1972159568404167936
+      Royal Knight Platformer-sheet_54: -7845042811565741001
+      Royal Knight Platformer-sheet_55: 4786300708165555304
+      Royal Knight Platformer-sheet_56: 7116572006604171616
+      Royal Knight Platformer-sheet_57: -6173296889145395969
+      Royal Knight Platformer-sheet_58: 8831562293319144336
+      Royal Knight Platformer-sheet_59: -8254549658830403335
+      Royal Knight Platformer-sheet_6: 4691569808407680189
+      Royal Knight Platformer-sheet_60: 7150615572744674441
+      Royal Knight Platformer-sheet_61: 5855540777494115584
+      Royal Knight Platformer-sheet_62: 5708234841021954585
+      Royal Knight Platformer-sheet_63: 3765013045390022216
+      Royal Knight Platformer-sheet_64: -727344565912130385
+      Royal Knight Platformer-sheet_65: 727733783996530071
+      Royal Knight Platformer-sheet_66: -6538062635784671884
+      Royal Knight Platformer-sheet_67: -3384054400295066709
+      Royal Knight Platformer-sheet_68: 5425744360465739142
+      Royal Knight Platformer-sheet_69: 5517455223066152788
+      Royal Knight Platformer-sheet_7: 3889812062130839519
+      Royal Knight Platformer-sheet_70: 8763316950067448279
+      Royal Knight Platformer-sheet_71: -2470330600336033875
+      Royal Knight Platformer-sheet_72: 3759477835006573204
+      Royal Knight Platformer-sheet_73: -4189769294171222514
+      Royal Knight Platformer-sheet_74: 2586161016778222290
+      Royal Knight Platformer-sheet_75: 8606129419188295464
+      Royal Knight Platformer-sheet_76: -7223209892428036917
+      Royal Knight Platformer-sheet_77: 317609666029204788
+      Royal Knight Platformer-sheet_78: 4172113289602809525
+      Royal Knight Platformer-sheet_79: 1634477183771312036
+      Royal Knight Platformer-sheet_8: -8643116230909996044
+      Royal Knight Platformer-sheet_80: -2045695207787920105
+      Royal Knight Platformer-sheet_81: -903856440586625250
+      Royal Knight Platformer-sheet_82: -950753414900804611
+      Royal Knight Platformer-sheet_83: -4638694928136549976
+      Royal Knight Platformer-sheet_84: -5069089460191828562
+      Royal Knight Platformer-sheet_85: -3808014462091583815
+      Royal Knight Platformer-sheet_86: 785164511373065831
+      Royal Knight Platformer-sheet_87: -5095847933400109652
+      Royal Knight Platformer-sheet_88: 7957117819587670147
+      Royal Knight Platformer-sheet_89: -2845754182960995119
+      Royal Knight Platformer-sheet_9: 7567348967765029870
+      Royal Knight Platformer-sheet_90: -630392136946084562
+      Royal Knight Platformer-sheet_91: 8727380628271158580
+      Royal Knight Platformer-sheet_92: 3039704652753692316
+      Royal Knight Platformer-sheet_93: 1521441254814732425
+      Royal Knight Platformer-sheet_94: -9026625518370849088
+      Royal Knight Platformer-sheet_95: 6667942728322005663
+      Royal Knight Platformer-sheet_96: 7774972511992333814
+      Royal Knight Platformer-sheet_97: 2191176380973362405
+      Royal Knight Platformer-sheet_98: -2263996811447965496
+      Royal Knight Platformer-sheet_99: -7826190770704804514
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
