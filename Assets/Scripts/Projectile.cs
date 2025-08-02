@@ -11,17 +11,6 @@ public class Projectile : MonoBehaviour
         Vector2 currentPos = transform.position;
         Vector2 nextPos = currentPos + direction.normalized * moveSpeed * Time.fixedDeltaTime;
 
-        // RaycastHit2D hit = Physics2D.Raycast(currentPos, direction, moveSpeed * Time.fixedDeltaTime, collisionLayer);
-
-        // if (hit.collider != null)
-        // {
-        //     Destroy(gameObject);
-        // }
-        // else
-        // {
-        //     transform.position = nextPos;
-        // }
-
         transform.position = nextPos;
     }
 
@@ -35,6 +24,11 @@ public class Projectile : MonoBehaviour
         }
         else if (other.CompareTag("Wall"))
         {
+            ProjectileSensor sensor = other.GetComponent<ProjectileSensor>();
+            if (sensor != null)
+            {
+                sensor.RegisterBulletHit();
+            }
             Destroy(this.gameObject);
         }
     }
