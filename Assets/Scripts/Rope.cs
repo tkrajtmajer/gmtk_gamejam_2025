@@ -26,7 +26,7 @@ public class Rope : MonoBehaviour
 
     void Update() {
         float ropeLength = GetRopeLength(ropePositions[ropePositions.Count - 1]);
-        text.text = (maxLength - ropeLength).ToString();
+        text.text = ((int) (maxLength - ropeLength)).ToString();
 
         UpdateRopePositions();
         CheckWrapping();
