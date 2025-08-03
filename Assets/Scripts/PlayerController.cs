@@ -20,14 +20,20 @@ public class PlayerController : MonoBehaviour
     private bool isDead = false;
     public GameObject HUDCanvas;
 
+    public float pullAnimationSpeed = 1f;
+    bool isPulling = false;
+
     void Update()
     {
         if (isDead) return;
 
-        movement.x = Input.GetAxisRaw("Horizontal");
-        movement.y = Input.GetAxisRaw("Vertical");
+        if(!isPulling) {
+            movement.x = Input.GetAxisRaw("Horizontal");
+            movement.y = Input.GetAxisRaw("Vertical");
 
-        animator.SetFloat("speed", movement.magnitude);
+            animator.SetFloat("speed", movement.magnitude);
+        }
+        else movement = Vector2.zero;
 
         if (movement.x != 0)
         {
@@ -70,5 +76,22 @@ public class PlayerController : MonoBehaviour
         gameOverCanvas.SetActive(true);
 
         Time.timeScale = 0f;
+    }
+
+    public void Pull() {
+        StartCoroutine(PlayPullSequence());
+    }
+
+    private IEnumerator PlayPullSequence()
+    {
+        isPulling = true;
+
+        animator.SetTrigger("pull");
+
+        yield return new WaitForSeconds(pullAnimationSpeed);
+
+        animator.SetTrigger("unpull");
+
+        isPulling = false;
     }
 }

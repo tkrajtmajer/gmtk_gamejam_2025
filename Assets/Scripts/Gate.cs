@@ -17,10 +17,11 @@ public class Gate : MonoBehaviour
     public Sprite gateClosedSprite;
 
     private PlayerController player;
+    private Animator animator;
 
     void Start() {
-        this.boxCollider = GetComponent<BoxCollider2D>();
-        // this.spriteRenderer = GetComponent<SpriteRenderer>();
+        boxCollider = GetComponent<BoxCollider2D>();
+        animator = GetComponent<Animator>();
 
         rope = FindFirstObjectByType<Rope>();
 
@@ -44,6 +45,8 @@ public class Gate : MonoBehaviour
         if(gateSpriteRenderer != null) {
             gateSpriteRenderer.sprite = gateOpenSprite;
         }
+
+        animator.SetTrigger("open");
     }
 
     public void Close() {
@@ -64,6 +67,8 @@ public class Gate : MonoBehaviour
         if(gateSpriteRenderer != null) {
             gateSpriteRenderer.sprite = gateClosedSprite;
         }
+
+        animator.SetTrigger("close");
     }
 
     public void Toggle()
