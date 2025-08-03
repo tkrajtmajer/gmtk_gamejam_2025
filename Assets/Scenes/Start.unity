@@ -51140,6 +51140,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5516901733551903314, guid: 3f90b61aa2775c3ec8af639b2c6b873b, type: 3}
+      propertyPath: isOpen
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5691525427975794328, guid: 3f90b61aa2775c3ec8af639b2c6b873b, type: 3}
       propertyPath: m_Name
       value: Gate_main
