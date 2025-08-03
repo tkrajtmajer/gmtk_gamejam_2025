@@ -1392,7 +1392,7 @@ MonoBehaviour:
   - sceneBuildIndex: 7
     musicClip: {fileID: 8300000, guid: 3e7dcc60b5842c244bf01578ce2c4738, type: 3}
   - sceneBuildIndex: 8
-    musicClip: {fileID: 8300000, guid: f6901f72adf92e54e9439656b51bbf08, type: 3}
+    musicClip: {fileID: 8300000, guid: 825f7b5116ce58b459096979f89fc7f5, type: 3}
   fadeDuration: 1.5
 --- !u!1 &1767001141
 GameObject:

@@ -100,7 +100,7 @@ public class CutsceneEnd : MonoBehaviour
         // playerCam.SetActive(true);
         // player.inCutscene = false;
 
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex+1);
+        SceneManager.LoadScene(0);
     }
 
     IEnumerator PanCameraTo(Vector3 targetPosition)
