@@ -449,7 +449,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: SIR LOOPSALOT
+  m_text: LIFELINE
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 6f1b8850fe0467ef39043d7b82692b38, type: 2}
   m_sharedMaterial: {fileID: -761577411262403566, guid: 6f1b8850fe0467ef39043d7b82692b38, type: 2}
@@ -1330,6 +1330,70 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1540087677}
   m_CullTransparentMesh: 1
+--- !u!1 &1689179697
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1689179698}
+  - component: {fileID: 1689179699}
+  m_Layer: 0
+  m_Name: MusicManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1689179698
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1689179697}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 359.35986, y: 149.11118, z: 0.90175986}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1689179699
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1689179697}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd719fe8e1616a4ca8958d4bf6186b3f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  musicByScene:
+  - sceneBuildIndex: 0
+    musicClip: {fileID: 8300000, guid: d798500f20674cd40a869d1cb44234c3, type: 3}
+  - sceneBuildIndex: 1
+    musicClip: {fileID: 8300000, guid: 9036ac01bf09f634bbbd306f78cca321, type: 3}
+  - sceneBuildIndex: 3
+    musicClip: {fileID: 8300000, guid: 9652ccc1f3b93f141bd8ad3b844b5d0c, type: 3}
+  - sceneBuildIndex: 4
+    musicClip: {fileID: 8300000, guid: 3e7dcc60b5842c244bf01578ce2c4738, type: 3}
+  - sceneBuildIndex: 5
+    musicClip: {fileID: 8300000, guid: 9652ccc1f3b93f141bd8ad3b844b5d0c, type: 3}
+  - sceneBuildIndex: 6
+    musicClip: {fileID: 8300000, guid: 4b4cedfe5c976384ba3ad62c987ab226, type: 3}
+  - sceneBuildIndex: 7
+    musicClip: {fileID: 8300000, guid: 9652ccc1f3b93f141bd8ad3b844b5d0c, type: 3}
+  - sceneBuildIndex: 8
+    musicClip: {fileID: 8300000, guid: 3e7dcc60b5842c244bf01578ce2c4738, type: 3}
+  - sceneBuildIndex: 9
+    musicClip: {fileID: 8300000, guid: f6901f72adf92e54e9439656b51bbf08, type: 3}
+  fadeDuration: 1.5
 --- !u!1 &1767001141
 GameObject:
   m_ObjectHideFlags: 0
@@ -1714,5 +1778,6 @@ SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
   - {fileID: 490392307}
+  - {fileID: 1689179698}
   - {fileID: 820568869}
   - {fileID: 2131085331}
