@@ -1,6 +1,7 @@
 using UnityEngine;
 using TMPro;
 using System.Collections;
+using UnityEngine.SceneManagement;
 
 public class CutsceneStart : MonoBehaviour
 {
@@ -76,6 +77,9 @@ public class CutsceneStart : MonoBehaviour
         mainCam.SetActive(false);
         playerCam.SetActive(true);
         player.inCutscene = false;
+
+        yield return new WaitForSeconds(2f);
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex+1); 
     }
 
     IEnumerator PanCameraTo(Vector3 targetPosition)
