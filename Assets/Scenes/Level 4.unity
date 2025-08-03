@@ -28404,7 +28404,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5516901733551903314, guid: 3f90b61aa2775c3ec8af639b2c6b873b, type: 3}
       propertyPath: startOpen
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5516901733551903314, guid: 3f90b61aa2775c3ec8af639b2c6b873b, type: 3}
       propertyPath: gateSpriteRenderer
@@ -64691,7 +64691,7 @@ Tilemap:
       - {fileID: 1748691510279232488, guid: 82a4f097709b8fa8c8afa4b95bd38aa0, type: 3}
       - {fileID: -5247555247312264489, guid: 82a4f097709b8fa8c8afa4b95bd38aa0, type: 3}
       - {fileID: 3227781158161595601, guid: 82a4f097709b8fa8c8afa4b95bd38aa0, type: 3}
-      m_AnimationSpeed: 1.5000001
+      m_AnimationSpeed: 1.5
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: -13, y: -29, z: 0}
@@ -64717,7 +64717,7 @@ Tilemap:
       - {fileID: 1748691510279232488, guid: 82a4f097709b8fa8c8afa4b95bd38aa0, type: 3}
       - {fileID: -5247555247312264489, guid: 82a4f097709b8fa8c8afa4b95bd38aa0, type: 3}
       - {fileID: 3227781158161595601, guid: 82a4f097709b8fa8c8afa4b95bd38aa0, type: 3}
-      m_AnimationSpeed: 1.5000001
+      m_AnimationSpeed: 1.5
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 2, y: -29, z: 0}
@@ -64899,7 +64899,7 @@ Tilemap:
       - {fileID: 1748691510279232488, guid: 82a4f097709b8fa8c8afa4b95bd38aa0, type: 3}
       - {fileID: -5247555247312264489, guid: 82a4f097709b8fa8c8afa4b95bd38aa0, type: 3}
       - {fileID: 3227781158161595601, guid: 82a4f097709b8fa8c8afa4b95bd38aa0, type: 3}
-      m_AnimationSpeed: 1.5000001
+      m_AnimationSpeed: 1.5
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: -17, y: -13, z: 0}
@@ -64964,7 +64964,7 @@ Tilemap:
       - {fileID: 1748691510279232488, guid: 82a4f097709b8fa8c8afa4b95bd38aa0, type: 3}
       - {fileID: -5247555247312264489, guid: 82a4f097709b8fa8c8afa4b95bd38aa0, type: 3}
       - {fileID: 3227781158161595601, guid: 82a4f097709b8fa8c8afa4b95bd38aa0, type: 3}
-      m_AnimationSpeed: 1.5000001
+      m_AnimationSpeed: 1.5
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 1, y: -3, z: 0}
