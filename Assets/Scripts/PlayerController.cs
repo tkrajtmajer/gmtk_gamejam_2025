@@ -23,9 +23,11 @@ public class PlayerController : MonoBehaviour
     public float pullAnimationSpeed = 1f;
     bool isPulling = false;
 
+    public bool inCutscene = false;
+
     void Update()
     {
-        if (isDead) return;
+        if (isDead || inCutscene) return;
 
         if(!isPulling) {
             movement.x = Input.GetAxisRaw("Horizontal");
