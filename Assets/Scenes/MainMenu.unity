@@ -1379,19 +1379,19 @@ MonoBehaviour:
     musicClip: {fileID: 8300000, guid: d798500f20674cd40a869d1cb44234c3, type: 3}
   - sceneBuildIndex: 1
     musicClip: {fileID: 8300000, guid: 9036ac01bf09f634bbbd306f78cca321, type: 3}
+  - sceneBuildIndex: 2
+    musicClip: {fileID: 8300000, guid: 9652ccc1f3b93f141bd8ad3b844b5d0c, type: 3}
   - sceneBuildIndex: 3
-    musicClip: {fileID: 8300000, guid: 9652ccc1f3b93f141bd8ad3b844b5d0c, type: 3}
+    musicClip: {fileID: 8300000, guid: 3e7dcc60b5842c244bf01578ce2c4738, type: 3}
   - sceneBuildIndex: 4
-    musicClip: {fileID: 8300000, guid: 3e7dcc60b5842c244bf01578ce2c4738, type: 3}
+    musicClip: {fileID: 8300000, guid: 9652ccc1f3b93f141bd8ad3b844b5d0c, type: 3}
   - sceneBuildIndex: 5
-    musicClip: {fileID: 8300000, guid: 9652ccc1f3b93f141bd8ad3b844b5d0c, type: 3}
-  - sceneBuildIndex: 6
     musicClip: {fileID: 8300000, guid: 4b4cedfe5c976384ba3ad62c987ab226, type: 3}
-  - sceneBuildIndex: 7
+  - sceneBuildIndex: 6
     musicClip: {fileID: 8300000, guid: 9652ccc1f3b93f141bd8ad3b844b5d0c, type: 3}
-  - sceneBuildIndex: 8
+  - sceneBuildIndex: 7
     musicClip: {fileID: 8300000, guid: 3e7dcc60b5842c244bf01578ce2c4738, type: 3}
-  - sceneBuildIndex: 9
+  - sceneBuildIndex: 8
     musicClip: {fileID: 8300000, guid: f6901f72adf92e54e9439656b51bbf08, type: 3}
   fadeDuration: 1.5
 --- !u!1 &1767001141
