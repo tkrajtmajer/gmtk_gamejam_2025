@@ -1,4 +1,6 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
+using System.Collections;
 
 public class Gate : MonoBehaviour
 {
@@ -18,6 +20,8 @@ public class Gate : MonoBehaviour
 
     private PlayerController player;
     private Animator animator;
+
+    public bool isFinalGate = false;
 
     void Start() {
         boxCollider = GetComponent<BoxCollider2D>();
@@ -46,7 +50,9 @@ public class Gate : MonoBehaviour
             gateSpriteRenderer.sprite = gateOpenSprite;
         }
 
-        animator.SetTrigger("open");
+        if(!isFinalGate) {
+            animator.SetTrigger("open");
+        }
     }
 
     public void Close() {
@@ -77,6 +83,26 @@ public class Gate : MonoBehaviour
             Close();
         else
             Open();
+    }
+
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.CompareTag("Player")) {
+            if(isOpen && isFinalGate) {
+                StartCoroutine(PlayGateAndTransition());
+            }
+        }
+    }
+
+    private IEnumerator PlayGateAndTransition()
+    {
+        if (animator != null)
+        {
+            animator.SetTrigger("open");
+        }
+        yield return new WaitForSeconds(1.5f);
+
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex+1);
     }
 
 }

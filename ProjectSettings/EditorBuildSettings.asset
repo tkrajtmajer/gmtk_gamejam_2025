@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenu.unity
     guid: c46d1968f9c32a9febd77f3d737c85df
   - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: b7a62d39b564d8c44b4116dfd32d6455
+  - enabled: 1
     path: Assets/Scenes/Tutorial level.unity
     guid: 8d5eb3df39046d0418542041c0480268
   - enabled: 1
@@ -26,7 +29,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Level 5 (Ophiuchus).unity
     guid: f40fc584e2322d147a536a082d56b4a3
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Level 6.unity
     guid: 6cacb7945a9399945a528ecf70c7cc3d
   - enabled: 1
@@ -35,6 +38,12 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/TestScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/End.unity
+    guid: 7f42574b93eab21a6a80e7e1cdd1c441
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 6cbe6c0587d4bd5db9f47ee66787b223
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
