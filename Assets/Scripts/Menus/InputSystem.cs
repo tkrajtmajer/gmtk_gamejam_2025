@@ -151,6 +151,11 @@ public class InputSystem : MonoBehaviour
         SceneManager.LoadScene("MainMenu"); 
     }
 
+    public void ReloadLevel() {
+        Time.timeScale = 1f; 
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex); 
+    }
+
     public void QuitGame() {
         Debug.Log("quit game");
         Application.Quit();

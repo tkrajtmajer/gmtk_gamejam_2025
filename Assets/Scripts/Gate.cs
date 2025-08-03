@@ -16,6 +16,8 @@ public class Gate : MonoBehaviour
     public Sprite gateOpenSprite;
     public Sprite gateClosedSprite;
 
+    private PlayerController player;
+
     void Start() {
         this.boxCollider = GetComponent<BoxCollider2D>();
         // this.spriteRenderer = GetComponent<SpriteRenderer>();
@@ -26,6 +28,8 @@ public class Gate : MonoBehaviour
             Open();
         else
             Close();
+
+        player = FindFirstObjectByType<PlayerController>();
     }
 
     public void Open() {
@@ -51,6 +55,7 @@ public class Gate : MonoBehaviour
         if (rope.IsRopeIntersecting(boxCollider))
         {
             Debug.Log("Gate cut off the rope, the player dies");
+            player.Die();
         }
 
         if(wall != null) {

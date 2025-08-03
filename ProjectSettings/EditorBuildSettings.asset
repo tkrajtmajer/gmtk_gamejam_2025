@@ -9,7 +9,28 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenu.unity
     guid: c46d1968f9c32a9febd77f3d737c85df
   - enabled: 1
-    path: Assets/Scenes/TestLevel.unity
+    path: Assets/Scenes/Tutorial level.unity
+    guid: 8d5eb3df39046d0418542041c0480268
+  - enabled: 1
+    path: Assets/Scenes/Level 1 (Leo).unity
+    guid: afcdba5d4e1460142a0f3df86408221b
+  - enabled: 1
+    path: Assets/Scenes/Level 2.unity
+    guid: f53050404a85c6d4e99d57985da13c69
+  - enabled: 1
+    path: Assets/Scenes/Level 3 (Aquarius).unity
+    guid: fc6ade0731f51234692606a34c56587f
+  - enabled: 1
+    path: Assets/Scenes/Level 4.unity
+    guid: 61ba71ada6778ad4f8603003ea333861
+  - enabled: 1
+    path: Assets/Scenes/Level 5 (Ophiuchus).unity
+    guid: f40fc584e2322d147a536a082d56b4a3
+  - enabled: 1
+    path: Assets/Scenes/Level 6.unity
+    guid: 6cacb7945a9399945a528ecf70c7cc3d
+  - enabled: 1
+    path: Assets/Scenes/Level7.unity
     guid: 5f1de68bea5785dbeb4f98bc48607717
   - enabled: 0
     path: Assets/Scenes/TestScene.unity

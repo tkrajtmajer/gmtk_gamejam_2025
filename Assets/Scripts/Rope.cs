@@ -25,12 +25,17 @@ public class Rope : MonoBehaviour
     }
 
     void Update() {
-        float ropeLength = GetRopeLength(ropePositions[ropePositions.Count - 1]);
-        text.text = ((int) (maxLength - ropeLength)).ToString();
+        float ropeLength = 0;
 
-        UpdateRopePositions();
-        CheckWrapping();
-        UnwrapIfPossible();
+        if(ropePositions.Count != 0) {
+            ropeLength = GetRopeLength(ropePositions[ropePositions.Count - 1]);
+
+            UpdateRopePositions();
+            CheckWrapping();
+            UnwrapIfPossible();
+        }
+
+        text.text = ((int) (maxLength - ropeLength)).ToString();
     }
 
     void UpdateRopePositions() {
@@ -124,6 +129,10 @@ public class Rope : MonoBehaviour
         }
 
         return false;
+    }
+
+    public void CutRope() {
+        ropePositions = new List<Vector2>();
     }
 
 }

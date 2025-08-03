@@ -449,7 +449,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: GAME TITLE
+  m_text: SIR LOOPSALOT
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 6f1b8850fe0467ef39043d7b82692b38, type: 2}
   m_sharedMaterial: {fileID: -761577411262403566, guid: 6f1b8850fe0467ef39043d7b82692b38, type: 2}
@@ -775,7 +775,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 92}
-  m_SizeDelta: {x: 400, y: 2}
+  m_SizeDelta: {x: 480, y: 2}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &826620249
 MonoBehaviour:
@@ -1512,7 +1512,7 @@ Animator:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1952778944}
-  m_Enabled: 1
+  m_Enabled: 0
   m_Avatar: {fileID: 0}
   m_Controller: {fileID: 9100000, guid: 14b01bf401d9e1b77a8c5f66ea43a964, type: 2}
   m_CullingMode: 0

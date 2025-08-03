@@ -5,6 +5,12 @@ public class Projectile : MonoBehaviour
     [HideInInspector] public Vector2 direction;
     [HideInInspector] public float moveSpeed = 6f;
     [HideInInspector] public LayerMask collisionLayer;
+
+    private PlayerController player;
+
+    void Start() {
+        player = FindFirstObjectByType<PlayerController>();
+    }
     
     void FixedUpdate()
     {
@@ -21,6 +27,7 @@ public class Projectile : MonoBehaviour
             // Destroy(other.gameObject);
             Destroy(this.gameObject);
             Debug.Log("player dies");
+            player.Die();
         }
         else if (other.CompareTag("Wall"))
         {

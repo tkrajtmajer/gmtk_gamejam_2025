@@ -1,4 +1,5 @@
 using UnityEngine;
+using System.Collections;
 
 public class PlayerController : MonoBehaviour
 {
@@ -13,8 +14,16 @@ public class PlayerController : MonoBehaviour
 
     Vector2 movement;
 
+    public GameObject gameOverCanvas;
+    public float deathDelay = 1.5f;
+
+    private bool isDead = false;
+    public GameObject HUDCanvas;
+
     void Update()
     {
+        if (isDead) return;
+
         movement.x = Input.GetAxisRaw("Horizontal");
         movement.y = Input.GetAxisRaw("Vertical");
 
@@ -40,5 +49,26 @@ public class PlayerController : MonoBehaviour
         {
             rb.MovePosition(moveAmount);
         }
+    }
+
+    public void Die() {
+        if (isDead) return;
+        isDead = true;
+        rope.CutRope();
+
+        HUDCanvas.SetActive(false);
+
+        StartCoroutine(HandleDeath());
+    }
+
+    private IEnumerator HandleDeath()
+    {
+        animator.SetTrigger("die");
+
+        yield return new WaitForSeconds(deathDelay);
+
+        gameOverCanvas.SetActive(true);
+
+        Time.timeScale = 0f;
     }
 }
