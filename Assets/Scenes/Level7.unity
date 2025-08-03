@@ -86838,7 +86838,7 @@ Tilemap:
       - {fileID: 1748691510279232488, guid: 82a4f097709b8fa8c8afa4b95bd38aa0, type: 3}
       - {fileID: -5247555247312264489, guid: 82a4f097709b8fa8c8afa4b95bd38aa0, type: 3}
       - {fileID: 3227781158161595601, guid: 82a4f097709b8fa8c8afa4b95bd38aa0, type: 3}
-      m_AnimationSpeed: 1.5
+      m_AnimationSpeed: 1.5000001
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 4, y: -25, z: 0}
@@ -86864,7 +86864,7 @@ Tilemap:
       - {fileID: 1748691510279232488, guid: 82a4f097709b8fa8c8afa4b95bd38aa0, type: 3}
       - {fileID: -5247555247312264489, guid: 82a4f097709b8fa8c8afa4b95bd38aa0, type: 3}
       - {fileID: 3227781158161595601, guid: 82a4f097709b8fa8c8afa4b95bd38aa0, type: 3}
-      m_AnimationSpeed: 1.5000001
+      m_AnimationSpeed: 1.5
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 15, y: -20, z: 0}
@@ -86877,7 +86877,7 @@ Tilemap:
       - {fileID: 1748691510279232488, guid: 82a4f097709b8fa8c8afa4b95bd38aa0, type: 3}
       - {fileID: -5247555247312264489, guid: 82a4f097709b8fa8c8afa4b95bd38aa0, type: 3}
       - {fileID: 3227781158161595601, guid: 82a4f097709b8fa8c8afa4b95bd38aa0, type: 3}
-      m_AnimationSpeed: 1.5000001
+      m_AnimationSpeed: 1.5
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 26, y: -15, z: 0}
@@ -86929,7 +86929,7 @@ Tilemap:
       - {fileID: 1748691510279232488, guid: 82a4f097709b8fa8c8afa4b95bd38aa0, type: 3}
       - {fileID: -5247555247312264489, guid: 82a4f097709b8fa8c8afa4b95bd38aa0, type: 3}
       - {fileID: 3227781158161595601, guid: 82a4f097709b8fa8c8afa4b95bd38aa0, type: 3}
-      m_AnimationSpeed: 1.5000001
+      m_AnimationSpeed: 1.5
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: -13, y: -1, z: 0}
@@ -86994,7 +86994,7 @@ Tilemap:
       - {fileID: 1748691510279232488, guid: 82a4f097709b8fa8c8afa4b95bd38aa0, type: 3}
       - {fileID: -5247555247312264489, guid: 82a4f097709b8fa8c8afa4b95bd38aa0, type: 3}
       - {fileID: 3227781158161595601, guid: 82a4f097709b8fa8c8afa4b95bd38aa0, type: 3}
-      m_AnimationSpeed: 1.5
+      m_AnimationSpeed: 1.5000001
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 15, y: 11, z: 0}
