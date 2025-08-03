@@ -7,11 +7,15 @@ public class PillarsPuzzle : MonoBehaviour
     [SerializeField] private List<Transform> allPillars;  
     [SerializeField] private Rope rope;
 
+    [SerializeField] private Gate gate;
+
     private int currentIndex = 0;
     private HashSet<Transform> wrappedPillars = new HashSet<Transform>();
 
     void Start() {
         rope = FindFirstObjectByType<Rope>();
+
+        gate = FindFirstObjectByType<Gate>();
     }
 
     void Update()
@@ -46,6 +50,6 @@ public class PillarsPuzzle : MonoBehaviour
 
     void OnSequenceComplete()
     {
-        Debug.Log("Puzzle completed!");
+        gate.Open();
     }
 }
