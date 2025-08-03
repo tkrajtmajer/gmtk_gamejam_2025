@@ -35,7 +35,9 @@ public class Rope : MonoBehaviour
             UnwrapIfPossible();
         }
 
-        text.text = ((int) (maxLength - ropeLength)).ToString();
+        if(text!=null) {
+            text.text = ((int) (maxLength - ropeLength)).ToString();
+        }
     }
 
     void UpdateRopePositions() {
@@ -112,6 +114,10 @@ public class Rope : MonoBehaviour
             Vector2 b = ropePositions[i + 1] - center;
             float angle = Vector2.SignedAngle(a, b);
             angleSum += angle;
+        }
+
+        if(Mathf.Abs(angleSum) > 355f) {
+            Debug.Log("wrapped fully");
         }
 
         return Mathf.Abs(angleSum) > 355f; 

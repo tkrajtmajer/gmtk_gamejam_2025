@@ -187,6 +187,7 @@ GameObject:
   - component: {fileID: 3161825601441729664}
   - component: {fileID: 949552935065504941}
   - component: {fileID: 6857147166489511532}
+  - component: {fileID: 5186456060682480403}
   m_Layer: 6
   m_Name: Pillar
   m_TagString: Untagged
@@ -300,8 +301,8 @@ CircleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0.015517235, y: -0.22965479}
-  m_Radius: 0.28586245
+  m_Offset: {x: 0.015517235, y: -0.16880238}
+  m_Radius: 0.34671485
 --- !u!114 &949552935065504941
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -323,7 +324,7 @@ PolygonCollider2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8024436291466969951}
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 3
   m_Density: 1
   m_Material: {fileID: 0}
@@ -386,3 +387,49 @@ PolygonCollider2D:
       - {x: 0.3180542, y: -0.23313713}
       - {x: 0.31539536, y: 0.108926296}
   m_UseDelaunayMesh: 0
+--- !u!61 &5186456060682480403
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8024436291466969951}
+  m_Enabled: 0
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0.031874895, y: -0.23761415}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 1}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 0.8087497, y: 0.5247717}
+  m_EdgeRadius: 0
