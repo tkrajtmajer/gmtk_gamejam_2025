@@ -25934,6 +25934,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gate_main
       objectReference: {fileID: 0}
+    - target: {fileID: 7309914537943537618, guid: 3f90b61aa2775c3ec8af639b2c6b873b, type: 3}
+      propertyPath: m_SortingOrder
+      value: 4
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
