@@ -13,6 +13,7 @@ public class Rope : MonoBehaviour
     public TMP_Text text;
 
     public float breakpointThresh = 0.001f;
+    public float offset = 0.05f;
 
     private LineRenderer lineRenderer;
     private List<Vector2> ropePositions = new List<Vector2>();
@@ -24,12 +25,19 @@ public class Rope : MonoBehaviour
     }
 
     void Update() {
-        float ropeLength = GetRopeLength(ropePositions[ropePositions.Count - 1]);
-        text.text = (maxLength - ropeLength).ToString();
+        float ropeLength = 0;
 
-        UpdateRopePositions();
-        CheckWrapping();
-        UnwrapIfPossible();
+        if(ropePositions.Count != 0) {
+            ropeLength = GetRopeLength(ropePositions[ropePositions.Count - 1]);
+
+            UpdateRopePositions();
+            CheckWrapping();
+            UnwrapIfPossible();
+        }
+
+        if(text!=null) {
+            text.text = ((int) (maxLength - ropeLength)).ToString();
+        }
     }
 
     void UpdateRopePositions() {
@@ -57,7 +65,6 @@ public class Rope : MonoBehaviour
             Vector2 hitPoint = hit.point;
             Vector2 normal = hit.normal;
 
-            float offset = 0.05f;
             Vector2 offsetHitPoint = hitPoint + normal * offset;
 
             if (Vector2.Distance(hitPoint, lastPoint) > breakpointThresh) {
@@ -109,6 +116,10 @@ public class Rope : MonoBehaviour
             angleSum += angle;
         }
 
+        if(Mathf.Abs(angleSum) > 355f) {
+            Debug.Log("wrapped fully");
+        }
+
         return Mathf.Abs(angleSum) > 355f; 
     }
 
@@ -124,6 +135,10 @@ public class Rope : MonoBehaviour
         }
 
         return false;
+    }
+
+    public void CutRope() {
+        ropePositions = new List<Vector2>();
     }
 
 }

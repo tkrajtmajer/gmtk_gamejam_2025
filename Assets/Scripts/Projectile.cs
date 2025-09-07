@@ -5,22 +5,17 @@ public class Projectile : MonoBehaviour
     [HideInInspector] public Vector2 direction;
     [HideInInspector] public float moveSpeed = 6f;
     [HideInInspector] public LayerMask collisionLayer;
+
+    private PlayerController player;
+
+    void Start() {
+        player = FindFirstObjectByType<PlayerController>();
+    }
     
     void FixedUpdate()
     {
         Vector2 currentPos = transform.position;
         Vector2 nextPos = currentPos + direction.normalized * moveSpeed * Time.fixedDeltaTime;
-
-        // RaycastHit2D hit = Physics2D.Raycast(currentPos, direction, moveSpeed * Time.fixedDeltaTime, collisionLayer);
-
-        // if (hit.collider != null)
-        // {
-        //     Destroy(gameObject);
-        // }
-        // else
-        // {
-        //     transform.position = nextPos;
-        // }
 
         transform.position = nextPos;
     }
@@ -32,9 +27,15 @@ public class Projectile : MonoBehaviour
             // Destroy(other.gameObject);
             Destroy(this.gameObject);
             Debug.Log("player dies");
+            player.Die();
         }
         else if (other.CompareTag("Wall"))
         {
+            ProjectileSensor sensor = other.GetComponent<ProjectileSensor>();
+            if (sensor != null)
+            {
+                sensor.RegisterBulletHit();
+            }
             Destroy(this.gameObject);
         }
     }

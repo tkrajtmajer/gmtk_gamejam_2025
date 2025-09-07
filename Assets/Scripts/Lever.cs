@@ -1,31 +1,38 @@
 using UnityEngine;
+using System.Collections;
 
 public class Lever : Pullable
 {
-    bool pulled = false;
     bool wasWrapped = false;
-    bool gateIsOpen = false;
 
+    private PlayerController player;
+    private Animator animator;
+
+    void Start() {
+        player = FindFirstObjectByType<PlayerController>();
+        animator = GetComponentInChildren<Animator>();
+    }
+    
     void Update()
     {
         bool isWrapped = rope.IsFullyWrappedAround(this.transform);
 
         if (isWrapped && !wasWrapped)
         {
-            pulled = !pulled;
+            StartCoroutine(PlayPullSequence()); 
+            player.Pull();
+            ToggleGates();
         }
 
         wasWrapped = isWrapped;
+    }
 
-        if (pulled && !gateIsOpen)
-        {
-            gate.Open();
-            gateIsOpen = true;
-        }
-        else if (!pulled && gateIsOpen)
-        {
-            gate.Close();
-            gateIsOpen = false;
-        }
+    private IEnumerator PlayPullSequence()
+    {
+        animator.SetTrigger("pull");
+
+        yield return new WaitForSeconds(1.3f);
+
+        animator.SetTrigger("unpull");
     }
 }

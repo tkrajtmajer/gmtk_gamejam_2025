@@ -2,21 +2,28 @@ using UnityEngine;
 
 public class Pillar : Pullable
 {
-    private bool gateIsOpen = false;
+
+    private bool gatesAreOpen = false;
 
     void Update()
     {
         bool isWrapped = rope.IsFullyWrappedAround(this.transform);
 
-        if (isWrapped && !gateIsOpen)
+        if (isWrapped && !gatesAreOpen)
         {
-            gate.Open();
-            gateIsOpen = true;
+            foreach (var gate in gates)
+            {
+                gate.Open();
+            }
+            gatesAreOpen = true;
         }
-        else if (!isWrapped && gateIsOpen)
+        else if (!isWrapped && gatesAreOpen)
         {
-            gate.Close();
-            gateIsOpen = false;
+            foreach (var gate in gates)
+            {
+                gate.Close();
+            }
+            gatesAreOpen = false;
         }
     }
 }

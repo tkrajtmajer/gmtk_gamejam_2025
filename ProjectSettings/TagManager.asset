@@ -15,8 +15,8 @@ TagManager:
   - obstacles
   - wall
   - gate
-  - 
-  - 
+  - minimap
+  - player
   - 
   - 
   - 
